@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a384dc;
+}
+
+h1{
+    font-size: 55px;
+}
+
+header {
+    font-family: 'Faster One', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Kings', cursive;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.portfolio-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.projeto {
+    margin-bottom: 20px;
+}
+
+.titulo {
+    font-weight: bold;
+    color: #000000;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    align-items: center;
+}
